@@ -1,0 +1,16 @@
+D:\CshRepos\Base\bin\Debug\net5.0\Base.exe
+D:\CshRepos\Base\bin\Debug\net5.0\Base.deps.json
+D:\CshRepos\Base\bin\Debug\net5.0\Base.runtimeconfig.json
+D:\CshRepos\Base\bin\Debug\net5.0\Base.runtimeconfig.dev.json
+D:\CshRepos\Base\bin\Debug\net5.0\Base.dll
+D:\CshRepos\Base\bin\Debug\net5.0\ref\Base.dll
+D:\CshRepos\Base\bin\Debug\net5.0\Base.pdb
+D:\CshRepos\Base\obj\Debug\net5.0\Base.GeneratedMSBuildEditorConfig.editorconfig
+D:\CshRepos\Base\obj\Debug\net5.0\Base.AssemblyInfoInputs.cache
+D:\CshRepos\Base\obj\Debug\net5.0\Base.AssemblyInfo.cs
+D:\CshRepos\Base\obj\Debug\net5.0\Base.csproj.CoreCompileInputs.cache
+D:\CshRepos\Base\obj\Debug\net5.0\Base.dll
+D:\CshRepos\Base\obj\Debug\net5.0\ref\Base.dll
+D:\CshRepos\Base\obj\Debug\net5.0\Base.pdb
+D:\CshRepos\Base\obj\Debug\net5.0\Base.genruntimeconfig.cache
+D:\CshRepos\Base\obj\Debug\net5.0\Base.csproj.AssemblyReference.cache
