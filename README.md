@@ -1,7 +1,7 @@
 ## List of Algorithms
 
 * [Algorithms](.AlgorithmsAndDataStructures/Algorithms)
-  * [Data Compression](.AlgorithmsAndDataStructures/Algorithms/DataCompression)
+  * [Data Compression](./AlgorithmsAndDataStructures/Algorithms/DataCompression)
     * [Burrows-Wheeler transform](.AlgorithmsAndDataStructures/Algorithms/DataCompression/BurrowsWheelerTransform.cs)
     * [Huffman Compressor](.AlgorithmsAndDataStructures/Algorithms/DataCompression/HuffmanCompressor.cs)
     * [Shannon-Fano Compressor](.AlgorithmsAndDataStructures/Algorithms/DataCompression/ShannonFanoCompressor.cs)
