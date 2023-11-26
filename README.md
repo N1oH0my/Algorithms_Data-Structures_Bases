@@ -1,6 +1,6 @@
 ## List of Algorithms
 
-* [Algorithms](./AlgorithmsAndDataStructures/Algorithms)
+[Algorithms](./AlgorithmsAndDataStructures/Algorithms)
       * [Data Compression](./AlgorithmsAndDataStructures//Algorithms/DataCompression)
       * [Burrows - Wheeler transform](./AlgorithmsAndDataStructures//Algorithms/DataCompression/BurrowsWheelerTransform.cs)
       * [Huffman Compressor](./AlgorithmsAndDataStructures/Algorithms/DataCompression/HuffmanCompressor.cs)
@@ -184,7 +184,7 @@
       * [Dynamic Coin Change](./AlgorithmsAndDataStructures/Algorithms/Problems/CoinChange)
       * [Dynamic](./AlgorithmsAndDataStructures/Algorithms/Problems/CoinChange/DynamicCoinChangeSolver.cs)
 
-* [Data Structures](./AlgorithmsAndDataStructures/DataStructures)
+[Data Structures](./AlgorithmsAndDataStructures/DataStructures)
       * [Bit Array](./AlgorithmsAndDataStructures/DataStructures/BitArray.cs)
       * [Timeline](./AlgorithmsAndDataStructures/DataStructures/Timeline.cs)
       * [Segment Trees](./AlgorithmsAndDataStructures/DataStructures/SegmentTrees)
